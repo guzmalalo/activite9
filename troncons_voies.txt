@@ -1,0 +1,747 @@
+16
+M1
+A;24
+La Defense;Esplanade de La Defense
+Esplanade de La Defense;Pont de Neuilly
+Pont de Neuilly;Les Sablons
+Les Sablons;Porte Maillot
+Porte Maillot;Argentine
+Argentine;Charles de Gaulle Etoile
+Charles de Gaulle Etoile;George V
+George V;Franklin Roosevelt
+Franklin Roosevelt;Champs Elysees Clemenceau
+Champs Elysees Clemenceau;Concorde
+Concorde;Tuileries
+Tuileries;Palais Royal Musee du Louvre
+Palais Royal Musee du Louvre;Louvre Rivoli
+Louvre Rivoli;Chatelet
+Chatelet;Hotel de Ville
+Hotel de Ville;St Paul
+St Paul;Bastille
+Bastille;Gare de Lyon
+Gare de Lyon;Reullly Diderot
+Reullly Diderot;Nation
+Nation;Porte de Vincennes
+Porte de Vincennes;Saint Mande
+Saint Mande;Berault
+Berault;Chateau de Vincennes
+B;24
+Chateau de Vincennes;Berault
+Berault;Saint Mande
+Saint Mande;Porte de Vincennes
+Porte de Vincennes;Nation
+Nation;Reullly Diderot
+Reullly Diderot;Gare de Lyon
+Gare de Lyon;Bastille
+Bastille;St Paul
+St Paul;Hotel de Ville
+Hotel de Ville;Chatelet
+Chatelet;Louvre Rivoli
+Louvre Rivoli;Palais Royal Musee du Louvre
+Palais Royal Musee du Louvre;Tuileries
+Tuileries;Concorde
+Concorde;Champs Elysees Clemenceau
+Champs Elysees Clemenceau;Franklin Roosevelt
+Franklin Roosevelt;George V
+George V;Charles de Gaulle Etoile
+Charles de Gaulle Etoile;Argentine
+Argentine;Porte Maillot
+Porte Maillot;Les Sablons
+Les Sablons;Pont de Neuilly
+Pont de Neuilly;Esplanade de La Defense
+Esplanade de La Defense;La Defense
+M2
+A;24
+Porte Dauphine;Victor Hugo
+Victor Hugo;Charles de Gaulle Etoile
+Charles de Gaulle Etoile;Termes
+Termes;Courcelles
+Courcelles;Monceau
+Monceau;Villiers
+Villiers;Rome
+Rome;Place de Clichy
+Place de Clichy;Blanche
+Blanche;Pigalle
+Pigalle;Anvers
+Anvers;Barbes Rochechouart
+Barbes Rochechouart;La Chapelle
+La Chapelle;Stalingrad
+Stalingrad;Jaures
+Jaures;Colonnel Fabien
+Colonnel Fabien;Belleville
+Belleville;Coucouronnes
+Coucouronnes;Melilmontant
+Melilmontant;Pere Lachaise
+Pere Lachaise;Philippe Auguste
+Philippe Auguste;Alexandre Dumas
+Alexandre Dumas;Avron
+Avron;Nation
+B;24
+Nation;Avron
+Avron;Alexandre Dumas
+Alexandre Dumas;Philippe Auguste
+Philippe Auguste;Pere Lachaise
+Pere Lachaise;Melilmontant
+Melilmontant;Coucouronnes
+Coucouronnes;Belleville
+Belleville;Colonnel Fabien
+Colonnel Fabien;Jaures
+Jaures;Stalingrad
+Stalingrad;La Chapelle
+La Chapelle;Barbes Rochechouart
+Barbes Rochechouart;Anvers
+Anvers;Pigalle
+Pigalle;Blanche
+Blanche;Place de Clichy
+Place de Clichy;Rome
+Rome;Villiers
+Villiers;Monceau
+Monceau;Courcelles
+Courcelles;Termes
+Termes;Charles de Gaulle Etoile
+Charles de Gaulle Etoile;Victor Hugo
+Victor Hugo;Porte Dauphine
+M3
+A;23
+Pont de Levallois Becon;Anatole France
+Anatole France;Louise Michel
+Louise Michel;Porte de Champerret
+Porte de Champerret;Pereire
+Pereire;Wagram
+Wagram;Malesherbes
+Malesherbes;Villiers
+Villiers;Europe
+Europe;Saint Lazare
+Saint Lazare;Havre Caumartin
+Havre Caumartin;Opera
+Opera;Quatre Septembre
+Quatre Septembre;Bourse
+Bourse;Sentier
+Sentier;Reaumur Sebastopol
+Reaumur Sebastopol;Arts et Metiers
+Arts et Metiers;Temple
+Temple;Republique
+Republique;Rue Saint Maur
+Rue Saint Maur;Pere Lachaise
+Pere Lachaise;Gambetta
+Gambetta;Porte de Bagnolet
+Porte de Bagnolet;Gallieni
+B;23
+Gallieni;Porte de Bagnolet
+Porte de Bagnolet;Gambetta
+Gambetta;Pere Lachaise
+Pere Lachaise;Rue Saint Maur
+Rue Saint Maur;Republique
+Republique;Temple
+Temple;Arts et Metiers
+Arts et Metiers;Reaumur Sebastopol
+Reaumur Sebastopol;Sentier
+Sentier;Bourse
+Bourse;Quatre Septembre
+Quatre Septembre;Opera
+Opera;Havre Caumartin
+Havre Caumartin;Saint Lazare
+Saint Lazare;Europe
+Europe;Villiers
+Villiers;Malesherbes
+Malesherbes;Wagram
+Wagram;Pereire
+Pereire;Porte de Champerret
+Porte de Champerret;Louise Michel
+Louise Michel;Anatole France
+Anatole France;Pont de Levallois Becon
+M3 bis
+A;3
+Porte des Lilas;Saint Fargeau
+Saint Fargeau;Pelleport
+Pelleport;Gambetta
+B;3
+Gambetta;Pelleport
+Pelleport;Saint Fargeau
+Saint Fargeau;Porte des Lilas
+M4
+A;25
+Porte de Clignancourt;Simplon
+Simplon;Marcadet Poissonniers
+Marcadet Poissonniers;Chateau Rouge
+Chateau Rouge;Barbes Rochechouart
+Barbes Rochechouart;Gare du Nord
+Gare du Nord;Gare de l'Est
+Gare de l'Est;Chateau d'Eau
+Chateau d'Eau;Strasbourg St Denis
+Strasbourg St Denis;Reaumur Sebastopol
+Reaumur Sebastopol;Etienne Marcel
+Etienne Marcel;Les Halles
+Les Halles;Chatelet
+Chatelet;Cite
+Cite;Saint Michel
+Saint Michel;Odeon
+Odeon;St Germain des Pres
+St Germain des Pres;St Sulpice
+St Sulpice;Sainte Placide
+Sainte Placide;Montparnasse Bienvenue
+Montparnasse Bienvenue;Vavin
+Vavin;Raspail
+Raspail;Denfert Rochereau
+Denfert Rochereau;Mouton Duvernet
+Mouton Duvernet;Alesia
+Alesia;Porte d'Orleans
+B;25
+Porte d'Orleans;Alesia
+Alesia;Mouton Duvernet
+Mouton Duvernet;Denfert Rochereau
+Denfert Rochereau;Raspail
+Raspail;Vavin
+Vavin;Montparnasse Bienvenue
+Montparnasse Bienvenue;Sainte Placide
+Sainte Placide;St Sulpice
+St Sulpice;St Germain des Pres
+St Germain des Pres;Odeon
+Odeon;Saint Michel
+Saint Michel;Cite
+Cite;Chatelet
+Chatelet;Les Halles
+Les Halles;Etienne Marcel
+Etienne Marcel;Reaumur Sebastopol
+Reaumur Sebastopol;Strasbourg St Denis
+Strasbourg St Denis;Chateau d'Eau
+Chateau d'Eau;Gare de l'Est
+Gare de l'Est;Gare du Nord
+Gare du Nord;Barbes Rochechouart
+Barbes Rochechouart;Chateau Rouge
+Chateau Rouge;Marcadet Poissonniers
+Marcadet Poissonniers;Simplon
+Simplon;Porte de Clignancourt
+M5
+A;21
+Bobigny Pablo Picasso;Bobigny Pantin Raymond Queneau
+Bobigny Pantin Raymond Queneau;Eglise de Pantin
+Eglise de Pantin;Hoche
+Hoche;Porte de Pantin
+Porte de Pantin;Ourcq
+Ourcq;Laumiere
+Laumiere;Jaures
+Jaures;Stalingrad
+Stalingrad;Gare du Nord
+Gare du Nord;Gare de l'Est
+Gare de l'Est;Jacques Bonsergent
+Jacques Bonsergent;Republique
+Republique;Oberkampf
+Oberkampf;Richard Lenoir
+Richard Lenoir;Breguet Sabin
+Breguet Sabin;Bastille
+Bastille;Quai de la Rapee
+Quai de la Rapee;Gare d'Austerlitz
+Gare d'Austerlitz;Saint Marcel
+Saint Marcel;Campo Formio
+Campo Formio;Place d'Italie
+B;21
+Place d'Italie;Campo Formio
+Campo Formio;Saint Marcel
+Saint Marcel;Gare d'Austerlitz
+Gare d'Austerlitz;Quai de la Rapee
+Quai de la Rapee;Bastille
+Bastille;Breguet Sabin
+Breguet Sabin;Richard Lenoir
+Richard Lenoir;Oberkampf
+Oberkampf;Republique
+Republique;Jacques Bonsergent
+Jacques Bonsergent;Gare de l'Est
+Gare de l'Est;Gare du Nord
+Gare du Nord;Stalingrad
+Stalingrad;Jaures
+Jaures;Laumiere
+Laumiere;Ourcq
+Ourcq;Porte de Pantin
+Porte de Pantin;Hoche
+Hoche;Eglise de Pantin
+Eglise de Pantin;Bobigny Pantin Raymond Queneau
+Bobigny Pantin Raymond Queneau;Bobigny Pablo Picasso
+M6
+A;27
+Charles de Gaulle Etoile;Kleber
+Kleber;Boissiere
+Boissiere;Trocadero
+Trocadero;Passy
+Passy;Bir Hakeim
+Bir Hakeim;Dupleix
+Dupleix;La Motte Picquet Grenelle
+La Motte Picquet Grenelle;Cambrone
+Cambrone;Sevres Lecourbe
+Sevres Lecourbe;Pasteur
+Pasteur;Montparnasse Bienvenue
+Montparnasse Bienvenue;Edgar Quinet
+Edgar Quinet;Raspail
+Raspail;Denfert Rochereau
+Denfert Rochereau;Saint Jacques
+Saint Jacques;Glassiere
+Glassiere;Corvisart
+Corvisart;Place d'Italie
+Place d'Italie;Nationale
+Nationale;Chevaleret
+Chevaleret;Quai de la Gare
+Quai de la Gare;Bercy
+Bercy;Dugommier
+Dugommier;Daumesnil
+Daumesnil;Bel Air
+Bel Air;Picpus
+Picpus;Nation
+B;27
+Nation;Picpus
+Picpus;Bel Air
+Bel Air;Daumesnil
+Daumesnil;Dugommier
+Dugommier;Bercy
+Bercy;Quai de la Gare
+Quai de la Gare;Chevaleret
+Chevaleret;Nationale
+Nationale;Place d'Italie
+Place d'Italie;Corvisart
+Corvisart;Glassiere
+Glassiere;Saint Jacques
+Saint Jacques;Denfert Rochereau
+Denfert Rochereau;Raspail
+Raspail;Edgar Quinet
+Edgar Quinet;Montparnasse Bienvenue
+Montparnasse Bienvenue;Pasteur
+Pasteur;Sevres Lecourbe
+Sevres Lecourbe;Cambrone
+Cambrone;La Motte Picquet Grenelle
+La Motte Picquet Grenelle;Dupleix
+Dupleix;Bir Hakeim
+Bir Hakeim;Passy
+Passy;Trocadero
+Trocadero;Boissiere
+Boissiere;Kleber
+Kleber;Charles de Gaulle Etoile
+M7
+A;32
+La Courneuve 8 Mai 1945;Fort d'Aubervilliers
+Fort d'Aubervilliers;Aubervilliers Pantin Quatre chemins
+Aubervilliers Pantin Quatre chemins;Porte de la Vilette
+Porte de la Vilette;Corentin Cariou
+Corentin Cariou;Crimee
+Crimee;Riquet
+Riquet;Stalingrad
+Stalingrad;Louis Blanc
+Louis Blanc;Chateau Landon
+Chateau Landon;Gare de l'Est
+Gare de l'Est;Poissonniere
+Poissonniere;Cadet
+Cadet;Le Peletier
+Le Peletier;Chaussee d'Antin La Fayette
+Chaussee d'Antin La Fayette;Opera
+Opera;Pyramides
+Pyramides;Palais Royal Musee du Louvre
+Palais Royal Musee du Louvre;Pont Neuf
+Pont Neuf;Chatelet
+Chatelet;Pont Marie
+Pont Marie;Sully Morland
+Sully Morland;Jussieu
+Jussieu;Place Monge
+Place Monge;Censier Daubenton
+Censier Daubenton;Les Gobelins
+Les Gobelins;Place d'Italie
+Place d'Italie;Tolbiac
+Tolbiac;Maison Blanche
+Maison Blanche;Le Kremlin Bicetre
+Le Kremlin Bicetre;Villejuif Leo Lagrange
+Villejuif Leo Lagrange;Villejuif Paul Vaillant Couturier
+Villejuif Paul Vaillant Couturier;Villejuif Louis Aragon
+B;32
+Villejuif Louis Aragon;Villejuif Paul Vaillant Couturier
+Villejuif Paul Vaillant Couturier;Villejuif Leo Lagrange
+Villejuif Leo Lagrange;Le Kremlin Bicetre
+Le Kremlin Bicetre;Maison Blanche
+Maison Blanche;Tolbiac
+Tolbiac;Place d'Italie
+Place d'Italie;Les Gobelins
+Les Gobelins;Censier Daubenton
+Censier Daubenton;Place Monge
+Place Monge;Jussieu
+Jussieu;Sully Morland
+Sully Morland;Pont Marie
+Pont Marie;Chatelet
+Chatelet;Pont Neuf
+Pont Neuf;Palais Royal Musee du Louvre
+Palais Royal Musee du Louvre;Pyramides
+Pyramides;Opera
+Opera;Chaussee d'Antin La Fayette
+Chaussee d'Antin La Fayette;Le Peletier
+Le Peletier;Cadet
+Cadet;Poissonniere
+Poissonniere;Gare de l'Est
+Gare de l'Est;Chateau Landon
+Chateau Landon;Louis Blanc
+Louis Blanc;Stalingrad
+Stalingrad;Riquet
+Riquet;Crimee
+Crimee;Corentin Cariou
+Corentin Cariou;Porte de la Vilette
+Porte de la Vilette;Aubervilliers Pantin Quatre chemins
+Aubervilliers Pantin Quatre chemins;Fort d'Aubervilliers
+Fort d'Aubervilliers;La Courneuve 8 Mai 1945
+M7 bis
+A;6
+Louis Blanc;Jaures
+Jaures;Bolivar
+Bolivar;Buttes Chaumont
+Buttes Chaumont;Botzaris
+Botzaris;Place des Fetes
+Place des Fetes;Pre St Gervais
+B;6
+Pre St Gervais;Danube
+Danube;Botzaris
+Botzaris;Buttes Chaumont
+Buttes Chaumont;Bolivar
+Bolivar;Jaures
+Jaures;Louis Blanc
+M8
+A;37
+Balard;Lourmel
+Lourmel;Bourcicaut
+Bourcicaut;Felix Faure
+Felix Faure;Commerce
+Commerce;La Motte Picquet Grenelle
+La Motte Picquet Grenelle;Ecole Militaire
+Ecole Militaire;La Tour Maubourg
+La Tour Maubourg;Invalides
+Invalides;Concorde
+Concorde;Madeleine
+Madeleine;Opera
+Opera;Richelieu Drouot
+Richelieu Drouot;Grands Boulevards
+Grands Boulevards;Bonne Nouvelle
+Bonne Nouvelle;Strasbourg St Denis
+Strasbourg St Denis;Republique
+Republique;Filles du Calvaire
+Filles du Calvaire;Saint Sebastien Froissart
+Saint Sebastien Froissart;Chemin vert
+Chemin vert;Bastille
+Bastille;Ledru Rollin
+Ledru Rollin;Faidherbe Chaligny
+Faidherbe Chaligny;Reuilly Diderot
+Reuilly Diderot;Montgallet
+Montgallet;Daumesnil
+Daumesnil;Michel Bizot
+Michel Bizot;Porte Doree
+Porte Doree;Porte de Charenton
+Porte de Charenton;Liberte
+Liberte;Charenton Ecoles
+Charenton Ecoles;Ecole Veterinaire Maisons Alfort
+Ecole Veterinaire Maisons Alfort;Maisons Alfort Stade
+Maisons Alfort Stade;Maisons Alfort Les Juilliottes
+Maisons Alfort Les Juilliottes;Creteil l'Echat
+Creteil l'Echat;Creteil Universite
+Creteil Universite;Creteil Prefecture
+Creteil Prefecture;Pointe du Lac
+B;37
+Pointe du Lac;Creteil Prefecture
+Creteil Prefecture;Creteil Universite
+Creteil Universite;Creteil l'Echat
+Creteil l'Echat;Maisons Alfort Les Juilliottes
+Maisons Alfort Les Juilliottes;Maisons Alfort Stade
+Maisons Alfort Stade;Ecole Veterinaire Maisons Alfort
+Ecole Veterinaire Maisons Alfort;Charenton Ecoles
+Charenton Ecoles;Liberte
+Liberte;Porte de Charenton
+Porte de Charenton;Porte Doree
+Porte Doree;Michel Bizot
+Michel Bizot;Daumesnil
+Daumesnil;Montgallet
+Montgallet;Reuilly Diderot
+Reuilly Diderot;Faidherbe Chaligny
+Faidherbe Chaligny;Ledru Rollin
+Ledru Rollin;Bastille
+Bastille;Chemin vert
+Chemin vert;Saint Sebastien Froissart
+Saint Sebastien Froissart;Filles du Calvaire
+Filles du Calvaire;Republique
+Republique;Strasbourg St Denis
+Strasbourg St Denis;Bonne Nouvelle
+Bonne Nouvelle;Grands Boulevards
+Grands Boulevards;Richelieu Drouot
+Richelieu Drouot;Opera
+Opera;Madeleine
+Madeleine;Concorde
+Concorde;Invalides
+Invalides;La Tour Maubourg
+La Tour Maubourg;Ecole Militaire
+Ecole Militaire;La Motte Picquet Grenelle
+La Motte Picquet Grenelle;Commerce
+Commerce;Felix Faure
+Felix Faure;Bourcicaut
+Bourcicaut;Lourmel
+Lourmel;Balard
+M9
+A;36
+Pont de Sevres;Billancourt
+Billancourt;Marcel Sembat
+Marcel Sembat;Porte de St Cloud
+Porte de St Cloud;Exelmans
+Exelmans;Michel Ange Molitor
+Michel Ange Molitor;Michel Ange Auteuil
+Michel Ange Auteuil;Jasmin
+Jasmin;Ranelagh
+Ranelagh;La Muette
+La Muette;Rue de la Pompe
+Rue de la Pompe;Trocadero
+Trocadero;Iena
+Iena;Alma Marceau
+Alma Marceau;Franklin Roosevelt
+Franklin Roosevelt;Saint Philippe du Roule
+Saint Philippe du Roule;Miromesnil
+Miromesnil;Saint Augustin
+Saint Augustin;Havre Caumartin
+Havre Caumartin;Chaussee d'Antin La Fayette
+Chaussee d'Antin La Fayette;Richelieu Drouot
+Richelieu Drouot;Grands Boulevards
+Grands Boulevards;Bonne Nouvelle
+Bonne Nouvelle;Strasbourg St Denis
+Strasbourg St Denis;Republique
+Republique;Oberkampf
+Oberkampf;Saint Amboise
+Saint Amboise;Voltaire
+Voltaire;Charonne
+Charonne;Rue des Boulets
+Rue des Boulets;Nation
+Nation;Buzenval
+Buzenval;Maraichers
+Maraichers;Porte de Montreuil
+Porte de Montreuil;Robespierre
+Robespierre;Croix de Chavaux
+Croix de Chavaux;Mairie de Montreuil
+B;36
+Mairie de Montreuil;Croix de Chavaux
+Croix de Chavaux;Robespierre
+Robespierre;Porte de Montreuil
+Porte de Montreuil;Maraichers
+Maraichers;Buzenval
+Buzenval;Nation
+Nation;Rue des Boulets
+Rue des Boulets;Charonne
+Charonne;Voltaire
+Voltaire;Saint Amboise
+Saint Amboise;Oberkampf
+Oberkampf;Republique
+Republique;Strasbourg St Denis
+Strasbourg St Denis;Bonne Nouvelle
+Bonne Nouvelle;Grands Boulevards
+Grands Boulevards;Richelieu Drouot
+Richelieu Drouot;Chaussee d'Antin La Fayette
+Chaussee d'Antin La Fayette;Havre Caumartin
+Havre Caumartin;Saint Augustin
+Saint Augustin;Miromesnil
+Miromesnil;Saint Philippe du Roule
+Saint Philippe du Roule;Franklin Roosevelt
+Franklin Roosevelt;Alma Marceau
+Alma Marceau;Iena
+Iena;Trocadero
+Trocadero;Rue de la Pompe
+Rue de la Pompe;La Muette
+La Muette;Ranelagh
+Ranelagh;Jasmin
+Jasmin;Michel Ange Auteuil
+Michel Ange Auteuil;Michel Ange Molitor
+Michel Ange Molitor;Exelmans
+Exelmans;Porte de St Cloud
+Porte de St Cloud;Marcel Sembat
+Marcel Sembat;Billancourt
+Billancourt;Pont de Sevres
+M10
+A;19
+Boulogne Pont de St Cloud;Boulogne Jean Jaures
+Boulogne Jean Jaures;Michel Ange Molitor
+Michel Ange Molitor;Chardon Lagache
+Chardon Lagache;Mirabeau
+Mirabeau;Javel Andre Citroen
+Javel Andre Citroen;Charles michels
+Charles michels;Avenue Emile Zola
+Avenue Emile Zola;La Motte Picquet Grenelle
+La Motte Picquet Grenelle;Segur
+Segur;Duroc
+Duroc;Vaneau
+Vaneau;Sevres Babylone
+Sevres Babylone;Mabillon
+Mabillon;Odeon
+Odeon;Cluny.La Sorbonne
+Cluny.La Sorbonne;Maubert Mutualite
+Maubert Mutualite;Cardinal Lemoine
+Cardinal Lemoine;Jussieu
+Jussieu;Gare d'Austerlitz
+B;19
+Gare d'Austerlitz;Jussieu
+Jussieu;Cardinal Lemoine
+Cardinal Lemoine;Maubert Mutualite
+Maubert Mutualite;Cluny.La Sorbonne
+Cluny.La Sorbonne;Odeon
+Odeon;Mabillon
+Mabillon;Sevres Babylone
+Sevres Babylone;Vaneau
+Vaneau;Duroc
+Duroc;Segur
+Segur;La Motte Picquet Grenelle
+La Motte Picquet Grenelle;Avenue Emile Zola
+Avenue Emile Zola;Charles michels
+Charles michels;Javel Andre Citroen
+Javel Andre Citroen;Eglise d'Auteuil
+Eglise d'Auteuil;Michel Ange Auteuil
+Michel Ange Auteuil;porte d'Auteuil
+porte d'Auteuil;Boulogne Jean Jaures
+Boulogne Jean Jaures;Boulogne Pont de St Cloud
+M11
+A;12
+Chatelet;Hotel de Ville
+Hotel de Ville;Rambuteau
+Rambuteau;Arts et Metiers
+Arts et Metiers;Republique
+Republique;Goncourt
+Goncourt;Belleville
+Belleville;Pyrenees
+Pyrenees;Jourdain
+Jourdain;Place des Fetes
+Place des Fetes;Telegraphe
+Telegraphe;Porte des Lilas
+Porte des Lilas;Mairie des Lilas
+B;12
+Mairie des Lilas;Porte des Lilas
+Porte des Lilas;Telegraphe
+Telegraphe;Place des Fetes
+Place des Fetes;Jourdain
+Jourdain;Pyrenees
+Pyrenees;Belleville
+Belleville;Goncourt
+Goncourt;Republique
+Republique;Arts et Metiers
+Arts et Metiers;Rambuteau
+Rambuteau;Hotel de Ville
+Hotel de Ville;Chatelet
+M12
+A;27
+Porte de la Chapelle;Marx Dormoy
+Marx Dormoy;Marcadet Poissonniers
+Marcadet Poissonniers;Jules Joffrin
+Jules Joffrin;Lamarck Caulaincourt
+Lamarck Caulaincourt;Abbesses
+Abbesses;Pigalle
+Pigalle;Saint Georges
+Saint Georges;Notre Dame de Lorette
+Notre Dame de Lorette;Trinite d4estienne d'Orves
+Trinite d4estienne d'Orves;Saint Lazare
+Saint Lazare;Madeleine
+Madeleine;Concorde
+Concorde;Assemblee Nationale
+Assemblee Nationale;Solferino
+Solferino;Rue du Bac
+Rue du Bac;Sevres Babylone
+Sevres Babylone;Rennes
+Rennes;Notre Dame des Champs
+Notre Dame des Champs;Montparnasse Bienvenue
+Montparnasse Bienvenue;Falguiere
+Falguiere;Pasteur
+Pasteur;Volontaires
+Volontaires;Vaugirard
+Vaugirard;Convention
+Convention;Porte de Versailles
+Porte de Versailles;Corentin Celton
+Corentin Celton;Mairie d'Issy
+B;27
+Mairie d'Issy;Corentin Celton
+Corentin Celton;Porte de Versailles
+Porte de Versailles;Convention
+Convention;Vaugirard
+Vaugirard;Volontaires
+Volontaires;Pasteur
+Pasteur;Falguiere
+Falguiere;Montparnasse Bienvenue
+Montparnasse Bienvenue;Notre Dame des Champs
+Notre Dame des Champs;Rennes
+Rennes;Sevres Babylone
+Sevres Babylone;Rue du Bac
+Rue du Bac;Solferino
+Solferino;Assemblee Nationale
+Assemblee Nationale;Concorde
+Concorde;Madeleine
+Madeleine;Saint Lazare
+Saint Lazare;Trinite d4estienne d'Orves
+Trinite d4estienne d'Orves;Notre Dame de Lorette
+Notre Dame de Lorette;Saint Georges
+Saint Georges;Pigalle
+Pigalle;Abbesses
+Abbesses;Lamarck Caulaincourt
+Lamarck Caulaincourt;Jules Joffrin
+Jules Joffrin;Marcadet Poissonniers
+Marcadet Poissonniers;Marx Dormoy
+Marx Dormoy;Porte de la Chapelle
+M13
+A;25
+Chatillon Montrouge;Malakoff Rue Etienne Dolet
+Malakoff Rue Etienne Dolet;Malakoff Plateau de Vanves
+Malakoff Plateau de Vanves;Porte de Vanves
+Porte de Vanves;Plaisance
+Plaisance;Permety
+Permety;Gaite
+Gaite;Montparnasse Bienvenue
+Montparnasse Bienvenue;Duroc
+Duroc;St Francois Xavier
+St Francois Xavier;Varenne
+Varenne;Invalides
+Invalides;Champs Elysees Clemenceau
+Champs Elysees Clemenceau;Miromesnil
+Miromesnil;Saint Lazare
+Saint Lazare;Liege
+Liege;Place de Clichy
+Place de Clichy;La Fourche
+La Fourche;Guy Moquet
+Guy Moquet;Porte de St Ouen
+Porte de St Ouen;Garibaldi
+Garibaldi;Mairie de St Ouen
+Mairie de St Ouen;Carrefour Pleyel
+Carrefour Pleyel;Saint Denis Porte de Paris
+Saint Denis Porte de Paris;Basilique St Denis
+Basilique St Denis;Saint Denis Universite
+B;25
+Saint Denis Universite;Basilique St Denis
+Basilique St Denis;Saint Denis Porte de Paris
+Saint Denis Porte de Paris;Carrefour Pleyel
+Carrefour Pleyel;Mairie de St Ouen
+Mairie de St Ouen;Garibaldi
+Garibaldi;Porte de St Ouen
+Porte de St Ouen;Guy Moquet
+Guy Moquet;La Fourche
+La Fourche;Place de Clichy
+Place de Clichy;Liege
+Liege;Saint Lazare
+Saint Lazare;Miromesnil
+Miromesnil;Champs Elysees Clemenceau
+Champs Elysees Clemenceau;Invalides
+Invalides;Varenne
+Varenne;St Francois Xavier
+St Francois Xavier;Duroc
+Duroc;Montparnasse Bienvenue
+Montparnasse Bienvenue;Gaite
+Gaite;Permety
+Permety;Plaisance
+Plaisance;Porte de Vanves
+Porte de Vanves;Malakoff Plateau de Vanves
+Malakoff Plateau de Vanves;Malakoff Rue Etienne Dolet
+Malakoff Rue Etienne Dolet;Chatillon Montrouge
+M14
+A;8
+Saint Lazare;Madeleine
+Madeleine;Pyramides
+Pyramides;Chatelet
+Chatelet;Gare de Lyon
+Gare de Lyon;Bercy
+Bercy;Cour Saint Emillion
+Cour Saint Emillion;Bibliotheque Francois Mitterrand
+Bibliotheque Francois Mitterrand;Olympiades
+B;8
+Olympiades;Bibliotheque Francois Mitterrand
+Bibliotheque Francois Mitterrand;Cour Saint Emillion
+Cour Saint Emillion;Bercy
+Bercy;Gare de Lyon
+Gare de Lyon;Chatelet
+Chatelet;Pyramides
+Pyramides;Madeleine
+Madeleine;Saint Lazare
